@@ -19,9 +19,9 @@ For an example of how to build a client with this library, use this project.
 
 ### Axcient x360Recover API
 
-  - Project       : [Client for the Axcient x360Recover API](https://github.com/simonbuckner/axcient)
-  - Product Page  : [Axcient x360Recover](https://axcient.com/products/x360recover/)
-  - API Reference : [Axcient x360Recover API reference](https://developer.axcient.com/x360recover/)
+- Project       : [Client for the Axcient x360Recover API](https://github.com/simonbuckner/axcient)
+- Product Page  : [Axcient x360Recover](https://axcient.com/products/x360recover/)
+- API Reference : [Axcient x360Recover API reference](https://developer.axcient.com/x360recover/)
 
 ## Outstanding Tasks
 

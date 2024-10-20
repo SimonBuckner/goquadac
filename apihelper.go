@@ -81,7 +81,8 @@ func (query *ApiQuery) SetDumpResponse(state bool) *ApiQuery {
 	return query
 }
 
-func (query *ApiQuery) SetDumpResponseBody(state bool) *ApiQuery {
+func (query *ApiQuery) SetDumpResponseAndBody(state bool) *ApiQuery {
+	query.dumpResponse = state
 	query.dumpResponseBody = state
 	return query
 }
