@@ -4,4 +4,4 @@ A collection of tools I use when querying API's for personal use.
 
 ## Current Projects
 
-  - [https://github.com/simonbuckner/axcient]
+  - [Client for the Axcient x360Recover API](https://github.com/simonbuckner/axcient)
